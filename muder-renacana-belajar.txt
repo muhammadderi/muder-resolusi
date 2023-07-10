@@ -1,5 +1,11 @@
-Rencana Belajar
+Rencana Belajar :
 
-- Fullstack Developer using Bootcamp
-- Front End Developer using Youtube
-- Fullstack Developrt using Dicoding
+- Fullstack Developer
+- Frontend Developer
+- Backend Developer
+
+Metode Belajar :
+- Bootcamp
+- Otodidak
+- Udemy
+- Dicoding

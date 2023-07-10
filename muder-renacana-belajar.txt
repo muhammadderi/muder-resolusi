@@ -1,6 +1,7 @@
 Rencana Belajar :
 
 - Fullstack Developer
+- DevOps Engineer
 - Frontend Developer
 - Backend Developer
 
